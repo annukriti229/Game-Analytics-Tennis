@@ -1,9 +1,10 @@
-mysql.connector-python
-request
+
 json
 pickle
 streamlit
 pandas
 altair
-from config import get_engine
 sql_query
+sqlalchemy
+mysql-connector-python
+requests
