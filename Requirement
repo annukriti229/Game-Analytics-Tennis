@@ -1,0 +1,9 @@
+mysql.connector
+request
+json
+pickle
+streamlit
+pandas
+altair
+from config import get_engine
+sql_query
